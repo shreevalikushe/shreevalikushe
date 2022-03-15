@@ -2,7 +2,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/000/242/482/original/female-developer-vector.jpg" width="380px">
 </p>
 <div align="center" width="100%"  >  
-  <b>Hello, I'm Shreevali!👋</b>
+  <h1>Hello, I'm Shreevali!👋</h1>
 </div>
 <br/>
 
