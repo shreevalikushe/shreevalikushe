@@ -31,10 +31,11 @@
 
 <br/>
 
-| <a href="https://github.com/shreevalikushe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreevalikushe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreevali's github stats" /></a> | <a href="https://github.com/shreevalikushe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreevalikushe&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a align="center" width="100%" margin="auto" href="https://github.com/shreevalikushe/github-readme-stats"><p align="center" width="100%" margin="auto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreevalikushe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreevali's github stats" /></p> </a> 
+<a  href="https://github.com/shreevalikushe/github-readme-stats"><p align="center" width="100%" margin="auto"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreevalikushe&layout=compact&theme=buefy&hide_border=true" /></p> </a> 
 
 
+<p align="center" width="100%" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreevalikushe&" alt="shreevalikushe" /></p>
 
 <p align="center" width="100%" margin="auto">
 <h4 align="center"> CONNECT WITH ME </h4>
